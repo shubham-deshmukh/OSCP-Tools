@@ -10,6 +10,9 @@ It contains necessary tools required for OSCP exam
 * Spray-Passwords.ps1
 * Rubeus.exe
 
+### Pass the Hash
+* scshell.py
+
 ### Other
 * psexec.exe
 * psexec64.exe
