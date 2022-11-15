@@ -9,6 +9,7 @@ It contains necessary tools required for OSCP exam
 ### Active Directory
 * Spray-Passwords.ps1
 
-
+### Other
+* psexec.exe
 * psexec64.exe
 * strings64.exe
